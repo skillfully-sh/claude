@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "skillfully",
+  "displayName": "Skillfully",
+  "version": "1.0.0",
+  "description": "Use your authenticated Skillfully skills in Claude.",
+  "author": {
+    "name": "Skillfully",
+    "url": "https://skillfully.sh"
+  },
+  "homepage": "https://skillfully.sh/integrations/skillfully",
+  "repository": "https://github.com/skillfully-sh/claude",
+  "license": "Proprietary",
+  "keywords": ["skillfully", "agent-skills", "mcp"]
+}
