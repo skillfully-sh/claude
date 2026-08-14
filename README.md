@@ -9,4 +9,4 @@ claude plugin install skillfully@skillfully
 
 Then ask Claude to show your available Skillfully skills. Claude opens browser authentication on first use.
 
-Documentation: https://skillfully.sh/integrations/skillfully
+Documentation: https://www.skillfully.sh/integrations/skillfully
