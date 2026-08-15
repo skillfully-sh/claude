@@ -2,7 +2,7 @@
   "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
   "name": "skillfully",
   "displayName": "Skillfully",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Use your authenticated Skillfully skills in Claude.",
   "author": {
     "name": "Skillfully",

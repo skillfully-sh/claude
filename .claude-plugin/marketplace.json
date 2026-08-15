@@ -5,13 +5,13 @@
     "name": "Skillfully"
   },
   "description": "Use your authenticated Skillfully skills in Claude.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "plugins": [
     {
       "name": "skillfully",
       "source": "./plugins/skillfully",
       "description": "Use your authenticated Skillfully skills in Claude.",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "author": {
         "name": "Skillfully"
       },

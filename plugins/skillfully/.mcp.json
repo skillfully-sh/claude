@@ -1,8 +1,1 @@
-{
-  "mcpServers": {
-    "skillfully": {
-      "type": "http",
-      "url": "https://www.skillfully.sh/mcp"
-    }
-  }
-}
+{"mcpServers":{"skillfully":{"type":"http","url":"https://www.skillfully.sh/mcp"}}}
