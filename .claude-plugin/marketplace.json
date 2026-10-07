@@ -5,18 +5,21 @@
     "name": "Skillfully"
   },
   "description": "Use your authenticated Skillfully skills in Claude.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "plugins": [
     {
       "name": "skillfully",
       "source": "./plugins/skillfully",
       "description": "Use your authenticated Skillfully skills in Claude.",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "author": {
         "name": "Skillfully"
       },
       "category": "productivity",
-      "tags": ["agent-skills", "mcp"],
+      "tags": [
+        "agent-skills",
+        "mcp"
+      ],
       "strict": true
     }
   ]
