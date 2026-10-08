@@ -4,14 +4,14 @@
   "owner": {
     "name": "Skillfully"
   },
-  "description": "Use your authenticated Skillfully skills in Claude.",
-  "version": "1.0.3",
+  "description": "Put expert methods to work with less guesswork",
+  "version": "1.0.4",
   "plugins": [
     {
       "name": "skillfully",
       "source": "./plugins/skillfully",
-      "description": "Use your authenticated Skillfully skills in Claude.",
-      "version": "1.0.3",
+      "description": "Put expert methods to work with less guesswork",
+      "version": "1.0.4",
       "author": {
         "name": "Skillfully"
       },
